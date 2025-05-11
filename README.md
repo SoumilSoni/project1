@@ -1,3 +1,3 @@
 # project1
 This is my first project
-Author - Soumil Soni 
+Author - Soumil Soni (writer)
